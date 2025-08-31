@@ -21,8 +21,17 @@ A aplicação permite conversar em tempo real com a IA, alternar entre modelos, 
 ---
 
 ## 📸 Demonstração
+### Dark
 
-*(PRINTS)*
+<img width="1363" height="719" alt="image" src="https://github.com/user-attachments/assets/e4056b9e-ee25-4c11-b5b7-9d8cb7c30977" />
+
+### White
+
+<img width="1363" height="709" alt="image" src="https://github.com/user-attachments/assets/e27bc4b1-2458-46f7-ade5-7c35dfc64c7e" />
+
+### Detalhes (MENU)
+
+<img width="1356" height="134" alt="image" src="https://github.com/user-attachments/assets/a1cd2fd9-cab4-43ff-b85a-be4d034d8410" />
 
 ---
 
@@ -71,12 +80,12 @@ Mais informações: Gerenciar API Keys
 https://platform.openai.com/api-keys?utm_source=chatgpt.com
 ```
 
-### ▶️ Execução
+## ▶️ Execução
 ```bash
 python main.py
 ```
 
-### 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 ```bash
 CHATBOT-API/
 │── main.py              # Código principal do chatbot
@@ -85,4 +94,7 @@ CHATBOT-API/
     └── favicon.ico     # Ícone da janela
 ```
 
+## 👤 Autor
+Desenvolvido por [Christian Mendes]
+- **LinkedIn:** https://www.linkedin.com/in/christian-mendes-b0073118b/
 
