@@ -95,6 +95,6 @@ CHATBOT-API/
 ```
 
 ## 👤 Autor
-Desenvolvido por [Christian Mendes]
+`@azrael-developer` - **Christian Mendes**
 - **LinkedIn:** https://www.linkedin.com/in/christian-mendes-b0073118b/
 
