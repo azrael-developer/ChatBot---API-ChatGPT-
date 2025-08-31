@@ -3,3 +3,7 @@ python-dotenv
 customtkinter
 httpx
 certifi
+SpeechRecognition
+pyaudio
+pyttsx3
+gTTS
